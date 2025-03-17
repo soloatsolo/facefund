@@ -1,0 +1,16 @@
+{
+  "appId": "com.facefund.app",
+  "appName": "FaceFundApp",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "http",
+    "hostname": "localhost"
+  },
+  "plugins": {
+    "Camera": {
+      "android": {
+        "permissions": ["android.permission.CAMERA"]
+      }
+    }
+  }
+}

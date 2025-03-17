@@ -1,0 +1,7 @@
+Collecting opencv-python
+  Downloading opencv_python-4.11.0.86-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (20 kB)
+Requirement already satisfied: numpy>=1.21.2 in ./venv/lib/python3.13/site-packages (from opencv-python) (2.2.4)
+Downloading opencv_python-4.11.0.86-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (63.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.0/63.0 MB 3.3 MB/s eta 0:00:00
+Installing collected packages: opencv-python
+Successfully installed opencv-python-4.11.0.86

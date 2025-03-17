@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FaceFund</string>
+    <string name="title_activity_main">FaceFund</string>
+    <string name="package_name">io.facefund.app</string>
+    <string name="custom_url_scheme">io.facefund.app</string>
+</resources>
